@@ -1,1 +1,2 @@
-# greetings_code
+This script is for displaying greetings to visitors based on the current time of the day. Created for a coding society that I'm part of but anyone can use the copy and edit to their own taste.
+I've commented the code so it should be easy to understand. I named the file Jd because it was initially a file for my studying of JavaScript through Jon Duckett's book. The JD stands for his initials. Happy coding! 
