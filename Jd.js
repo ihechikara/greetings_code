@@ -6,7 +6,7 @@ var hourNow = currentDay.getHours(); //gets current hour
 
 var greeting;
 
-/*For the code below: If the current hour is above 18 then greeting will be Good evening; greater than 12 and it'll be Good Afternoon. If greater than zero, it'll be Giod morning*/
+/*For the code below: If the current hour is above 18 then greeting will be Good evening; greater than 12 and it'll be Good Afternoon. If greater than zero, it'll be Good morning*/
 
 if (hourNow > 18) {
   greeting = "Good Evening! Welcome to my Portfolio!"
@@ -20,4 +20,4 @@ if (hourNow > 18) {
 
 document.write("<h1>" + greeting + "<h1>")
 
-/*created with the help of Jon Duckett's JavaScript book*/
+/*created with the help of Jon Duckett's JavaScript textbook*/
