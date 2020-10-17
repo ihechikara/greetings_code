@@ -20,4 +20,4 @@ if (hourNow > 18) {
 
 document.write("<h1>" + greeting + "<h1>")
 
-/*created with the help of Jon Duckett's JavaScript book*/
+/*created with the help of Jon Duckett's JavaScript textbook*/
